@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/anastasia-pontriagina">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/your-telegram-URL">
+  <a href="https://t.me/tom_lunacharskiy">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -19,15 +19,14 @@
 </h1>
 
 ---
-<!--
-### :woman_technologist: Обо мне:
-Я веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
-- :telescope: Работаю как инженер-программист, создавая фронтенд и бэкенд для веб-приложений.
+### :woman_technologist: Обо мне:
+Я frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: создаю фронтенд для веб-приложений.
 - :seedling: Изучаю написание технического контента.
-- :zap: В свободное время решаю задачи на Leetcode и читаю технические статьи.
-- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
--->
+- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](tom_lunacharskiy)
+
 ---
 
 ### :hammer_and_wrench: Языки и инструменты:
