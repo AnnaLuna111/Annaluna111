@@ -25,7 +25,7 @@
 
 - :telescope: создаю фронтенд для веб-приложений.
 - :seedling: Изучаю написание технического контента.
-- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](tom_lunacharskiy)
+- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-tom_lunacharskiy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tom_lunacharskiy)
 
 ---
 
@@ -40,9 +40,3 @@
 ![Pinia](https://img.shields.io/badge/Pinia-2F4F4F?style=for-the-badge&logo=pinia&logoColor=yellow)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
-
-### :fire: Моя статистика:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight)
